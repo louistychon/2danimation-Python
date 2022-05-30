@@ -3,8 +3,8 @@ import time
 
 WIDTH = 500
 HEIGHT = 500
-xVelocity = 5
-yVelocity = 7
+xVelocity = 10
+yVelocity = 15
 
 window = Tk()
 
